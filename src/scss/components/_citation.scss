@@ -1,0 +1,25 @@
+
+.citation {
+  height: 404px;
+
+  background-image: url("../images/bg-citation.jpg");
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+
+  color: var(--couleur-blanc);
+
+  .conteneur {
+    padding: 0 150px;
+
+  }
+
+  h3 {
+    font-size: 40px;
+    text-transform: uppercase;
+  }
+
+
+}

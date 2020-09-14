@@ -1,0 +1,9 @@
+.content a {
+  color: var(--couleur-blanc);
+  text-decoration: none;
+
+  &:hover{
+    color: var(--couleur-primaire);
+    text-decoration: underline;
+  }
+}

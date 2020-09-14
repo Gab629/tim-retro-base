@@ -1,0 +1,13 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Listes à puces sur tous les LI */
+li {
+  list-style: none;
+}
+
+/* Enlever les marges sur les H1, H2 */
+h1, h2 {
+  margin: 0;
+}
